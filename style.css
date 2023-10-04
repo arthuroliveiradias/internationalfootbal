@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+    
+    
+}
+h1{ 
+    background: #0a0a0a;
+    color: white; 
+    font-size: 3em;
+
+text-transform: capitalize;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: 900;
+/* font-style: italic;  */
+margin-top: 50px; 
+padding: 25px;
+text-align: center;
+letter-spacing: 8px;
+/* text-shadow: 2px 10px 10px #07881c,3px 3px 5px #1529e4 ; */
+text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de; 
+}
+
+main p{
+ margin-left: 100px; 
+ margin-right: 100px;
+ margin-bottom: 40px; 
+ line-height: 2em; 
+ text-indent: 5em;
+ text-align: justify;
+
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+font: size 1.7em ;
+color: #fa0404;
+
+}
+footer{
+    color: #00eeff;
+    margin: 1.7; 
+}
